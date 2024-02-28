@@ -8,3 +8,8 @@
 - [Ethereum Whitepaper](https://ethereum.org/en/whitepaper/)
 
 É uma blockchain que popularizou o uso de contratos inteligentes através da linguagem de programação Solidity.
+
+## Características
+- [Ether (Criptomoeda)](./Ether.md)
+- [Solidity](./Solidity.md)
+- [Mempool (Ethereum)](./Mempool.md)
