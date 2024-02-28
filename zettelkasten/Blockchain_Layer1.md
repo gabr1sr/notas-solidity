@@ -12,5 +12,5 @@ Ela é simplesmente a rede principal que as soluções de escalabilidade Layer 2
 Ela muda as regras do protocolo diretamente em uma tentativa de escalar ou providenciar melhor usabilidade. Essas regras incluem, por exemplo, aumentar a quantidade de informações incluídas em cada bloco, ou acelerar o tempo de confirmação de bloco para cada bloco, para aumentar a velocidade de produção. Geralmente, essas alterações vem com o custo da redução de segurança e/ou descentralização aumentando os requerimentos de hardware para rodar os nodes, ou aumenta o custo para alguém se tornar um validador em um sistema Proof of Stake, etc.
 
 ## Exemplos
-- **Bitcoin**
-- **Ethereum**
+- [Bitcoin](./Bitcoin.md)
+- [Ethereum](./Ethereum.md)
