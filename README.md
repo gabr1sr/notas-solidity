@@ -1,6 +1,9 @@
 # Notas Solidity
 Anotações em Português (Brasil) sobre Solidity.
 
-A maioria dessas notas eu repassei do [meu zettelkasten](https://github.com/gabr1sr/notas) com org-roam para esse repo em Markdown.
+## Depreciado!
+Este repositório foi arquivado.
 
-Em progresso 😁
+Por favor, utilize os seguintes links:
+- https://gabr1sr.github.io/notes/solidity/
+- https://gabr1sr.github.io/notes/blockchain/
